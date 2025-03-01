@@ -55,7 +55,7 @@
     <a href="https://solved.ac/rkdwldms42">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdwldms42" alt="Solved.ac 프로필" />
     </a>
-    <a href="https://github.com/antisdun/github-readme-stats">
+    <a href="https://github.com/antisdun">
       <img src="https://github-readme-stats.vercel.app/api?username=antisdun" alt="antisdun's GitHub stats" />
     </a>
   </div>
